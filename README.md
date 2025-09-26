@@ -1,10 +1,17 @@
-# Project Dashboard
+# UC Investments Dashboard
 
-## Repository Stats
+## Repository Overview
+
 | Repository | Open Issues | Closed Issues | Pull Requests |
-|------------|-------------|---------------|---------------|
-| UC-wages | ![](https://img.shields.io/github/issues/ucinvestments/UC-wages) | ![](https://img.shields.io/github/issues-closed/ucinvestments/UC-wages) | ![](https://img.shields.io/github/issues-pr/ucinvestments/UC-wages) |
-| BDS | ![](https://img.shields.io/github/issues/ucinvestments/BDS) | ![](https://img.shields.io/github/issues-closed/ucinvestments/BDS) | ![](https://img.shields.io/github/issues-pr/ucinvestments/BDS) |
-| UC-Investments | ![](https://img.shields.io/github/issues/ucinvestments/UC-Investments) | ![](https://img.shields.io/github/issues-closed/ucinvestments/UC-Investments) | ![](https://img.shields.io/github/issues-pr/ucinvestments/UC-Investments) |
-| holdings | ![](https://img.shields.io/github/issues/ucinvestments/holdings) | ![](https://img.shields.io/github/issues-closed/ucinvestments/holdings) | ![](https://img.shields.io/github/issues-pr/ucinvestments/holdings) |
-| people | ![](https://img.shields.io/github/issues/ucinvestments/people) | ![](https://img.shields.io/github/issues-closed/ucinvestments/people) | ![](https://img.shields.io/github/issues-pr/ucinvestments/people) |
+|:----------:|:-----------:|:-------------:|:-------------:|
+| [UC-wages](https://github.com/ucinvestments/UC-wages) | [![Issues](https://img.shields.io/github/issues/ucinvestments/UC-wages?color=blue&style=flat-square)](https://github.com/ucinvestments/UC-wages/issues) | [![Closed](https://img.shields.io/github/issues-closed/ucinvestments/UC-wages?color=success&style=flat-square)](https://github.com/ucinvestments/UC-wages/issues?q=is%3Aissue+is%3Aclosed) | [![PRs](https://img.shields.io/github/issues-pr/ucinvestments/UC-wages?color=orange&style=flat-square)](https://github.com/ucinvestments/UC-wages/pulls) |
+| [BDS](https://github.com/ucinvestments/BDS) | [![Issues](https://img.shields.io/github/issues/ucinvestments/BDS?color=blue&style=flat-square)](https://github.com/ucinvestments/BDS/issues) | [![Closed](https://img.shields.io/github/issues-closed/ucinvestments/BDS?color=success&style=flat-square)](https://github.com/ucinvestments/BDS/issues?q=is%3Aissue+is%3Aclosed) | [![PRs](https://img.shields.io/github/issues-pr/ucinvestments/BDS?color=orange&style=flat-square)](https://github.com/ucinvestments/BDS/pulls) |
+| [UC-Investments](https://github.com/ucinvestments/UC-Investments) | [![Issues](https://img.shields.io/github/issues/ucinvestments/UC-Investments?color=blue&style=flat-square)](https://github.com/ucinvestments/UC-Investments/issues) | [![Closed](https://img.shields.io/github/issues-closed/ucinvestments/UC-Investments?color=success&style=flat-square)](https://github.com/ucinvestments/UC-Investments/issues?q=is%3Aissue+is%3Aclosed) | [![PRs](https://img.shields.io/github/issues-pr/ucinvestments/UC-Investments?color=orange&style=flat-square)](https://github.com/ucinvestments/UC-Investments/pulls) |
+| [holdings](https://github.com/ucinvestments/holdings) | [![Issues](https://img.shields.io/github/issues/ucinvestments/holdings?color=blue&style=flat-square)](https://github.com/ucinvestments/holdings/issues) | [![Closed](https://img.shields.io/github/issues-closed/ucinvestments/holdings?color=success&style=flat-square)](https://github.com/ucinvestments/holdings/issues?q=is%3Aissue+is%3Aclosed) | [![PRs](https://img.shields.io/github/issues-pr/ucinvestments/holdings?color=orange&style=flat-square)](https://github.com/ucinvestments/holdings/pulls) |
+| [people](https://github.com/ucinvestments/people) | [![Issues](https://img.shields.io/github/issues/ucinvestments/people?color=blue&style=flat-square)](https://github.com/ucinvestments/people/issues) | [![Closed](https://img.shields.io/github/issues-closed/ucinvestments/people?color=success&style=flat-square)](https://github.com/ucinvestments/people/issues?q=is%3Aissue+is%3Aclosed) | [![PRs](https://img.shields.io/github/issues-pr/ucinvestments/people?color=orange&style=flat-square)](https://github.com/ucinvestments/people/pulls) |
+
+## Project Status
+
+[![Total Open Issues](https://img.shields.io/github/issues-search/ucinvestments?query=is%3Aissue+is%3Aopen+user%3Aucinvestments&label=All%20Open%20Issues&style=for-the-badge&color=informational)](https://github.com/search?q=org%3Aucinvestments+is%3Aissue+is%3Aopen&type=issues)
+[![In Progress](https://img.shields.io/github/issues-search/ucinvestments?query=is%3Aissue+is%3Aopen+user%3Aucinvestments+label%3A%22in+progress%22&label=In%20Progress&style=for-the-badge&color=yellow)](https://github.com/search?q=org%3Aucinvestments+is%3Aissue+is%3Aopen+label%3A%22in+progress%22&type=issues)
+[![Recently Closed](https://img.shields.io/github/issues-search/ucinvestments?query=is%3Aissue+is%3Aclosed+user%3Aucinvestments+closed%3A%3E2025-09-01&label=Recently%20Closed&style=for-the-badge&color=success)](https://github.com/search?q=org%3Aucinvestments+is%3Aissue+is%3Aclosed+closed%3A%3E2025-09-01&type=issues)
